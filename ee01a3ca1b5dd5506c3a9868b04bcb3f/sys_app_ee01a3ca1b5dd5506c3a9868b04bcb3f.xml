@@ -29,9 +29,6 @@
         <sys_created_by>robert.chiu@snc</sys_created_by>
         <sys_created_on>2022-08-15 16:43:46</sys_created_on>
         <sys_id>ee01a3ca1b5dd5506c3a9868b04bcb3f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>robert.chiu@snc</sys_updated_by>
-        <sys_updated_on>2022-08-15 16:43:46</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
