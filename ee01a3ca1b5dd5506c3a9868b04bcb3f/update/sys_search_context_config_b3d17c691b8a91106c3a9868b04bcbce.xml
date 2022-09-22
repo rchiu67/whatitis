@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <application_id display_value="whatitis">ee01a3ca1b5dd5506c3a9868b04bcb3f</application_id>
+        <evam_definition/>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>test</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="Service Portal Default Search Profile">bd568e85772300102d71af6168106198</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-09-19 21:28:44</sys_created_on>
+        <sys_id>b3d17c691b8a91106c3a9868b04bcbce</sys_id>
+        <sys_name>test</sys_name>
+        <sys_package display_value="whatitis" source="x_snc_whatitis">ee01a3ca1b5dd5506c3a9868b04bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="whatitis">ee01a3ca1b5dd5506c3a9868b04bcb3f</sys_scope>
+        <sys_update_name>sys_search_context_config_b3d17c691b8a91106c3a9868b04bcbce</sys_update_name>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=b3d17c691b8a91106c3a9868b04bcbce"/>
+</record_update>

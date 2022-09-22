@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="test">b3d17c691b8a91106c3a9868b04bcbce</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for test</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>robert.chiu@snc</sys_created_by>
+        <sys_created_on>2022-09-19 21:28:44</sys_created_on>
+        <sys_id>cae1fc691b8a91106c3a9868b04bcb3d</sys_id>
+        <sys_name>Recent Search Reader Group for test</sys_name>
+        <sys_package display_value="whatitis" source="x_snc_whatitis">ee01a3ca1b5dd5506c3a9868b04bcb3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="whatitis">ee01a3ca1b5dd5506c3a9868b04bcb3f</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_cae1fc691b8a91106c3a9868b04bcb3d</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>
